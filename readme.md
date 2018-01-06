@@ -15,3 +15,7 @@
 
 # 启动入口：
 bin -> main.py
+
+# 参考文章
+> 《Python之路,Day4 - Python基础4 (new版)》
+http://www.cnblogs.com/alex3714/articles/5765046.html
